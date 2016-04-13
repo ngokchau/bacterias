@@ -1,3 +1,6 @@
+http://students.washington.edu/ngokchau/bacterias
+I am having problem importing the Plotly library.
+
 Grouped Bar Chart – How many bacterial infection requires lower MIC for penicillin than streptomycin and neomycin?
 
 The visual encodings and perceptions that are represented in the grouped bar chart are the colors, length, position along the common scale, and area. We can observe that different colors are used to represent the different types of antibiotics per bacterial infection. Area can be perceived by looking at each bar. The length of the bar makes up the height and is aligned with the scale of the chart. 
